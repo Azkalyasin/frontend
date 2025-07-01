@@ -11,3 +11,9 @@ Kelompok 6:
 Tampilan pada bagian User
 
 ![Screenshot 2025-06-12 181314](https://github.com/user-attachments/assets/cbbbe3bc-c138-46a3-93fb-ffd33db6d844)
+
+rangkuman 3 halaman:
+[kelompok 6.pdf](https://github.com/user-attachments/files/20989065/kelompok.6.pdf)
+
+Naskah publikasi
+[Kelompok6_Paper.docx](https://github.com/user-attachments/files/20989070/Kelompok6_Paper.docx)
