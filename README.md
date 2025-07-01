@@ -15,6 +15,8 @@ Tampilan pada bagian User
 rangkuman 3 halaman:
 [kelompok 6.pdf](https://github.com/user-attachments/files/20989065/kelompok.6.pdf)
 
+Link resume kelompok 6://drive.google.com/drive/folders/1lfFaqdQLnN50kRksWDfwyWb-HdmJwmTC?usp=sharing
+
 Naskah publikasi
 [Kelompok6_Paper.docx](https://github.com/user-attachments/files/20989070/Kelompok6_Paper.docx)
 
