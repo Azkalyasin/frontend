@@ -17,3 +17,6 @@ rangkuman 3 halaman:
 
 Naskah publikasi
 [Kelompok6_Paper.docx](https://github.com/user-attachments/files/20989070/Kelompok6_Paper.docx)
+
+link Dokumentasi Database: 
+https://drive.google.com/drive/folders/1cYX6IBh-8b-lQvLKHbDOJXAJbOACxSkX?usp=sharing
